@@ -1,2 +1,4 @@
 .idea
-/*/target/
+/db/target/
+/api/target/
+/service/target/
