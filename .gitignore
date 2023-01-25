@@ -1,5 +1,2 @@
 .idea
-#/db/target/
-#/api/target/
-#/service/target/
-target/
+target
